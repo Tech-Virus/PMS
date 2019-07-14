@@ -1,0 +1,6 @@
+Customer Name : Huzaifa
+Medicine Name : disprine
+Medicine Catagory : tablet
+Quantity : 1
+Price : 2
+ : :00x23fad8 14/7/2019

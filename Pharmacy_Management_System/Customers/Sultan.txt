@@ -1,0 +1,6 @@
+Customer Name : Sultan
+Medicine Name : panadol
+Medicine Catagory : tablet
+Quantity : 1
+Price : 0.5
+Data :  14/7/2019

@@ -1,0 +1,6 @@
+Customer Name : Faisal
+Medicine Name : doxycycline
+Medicine Catagory : capsule
+Quantity : 1pack
+Price : 60
+Data :  14/7/2019

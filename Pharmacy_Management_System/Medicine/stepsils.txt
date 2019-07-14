@@ -1,0 +1,5 @@
+Medicine Name : stepsils
+Company Name : none
+Medicine Catagory : tablet
+Weightage : 100mg
+Price : 10

@@ -1,0 +1,5 @@
+Customer Name : Subhan
+Medicine Name : brufin
+Medicine Catagory : tablet
+Quantity : 3
+Price : 10e : :58 14/7/2019

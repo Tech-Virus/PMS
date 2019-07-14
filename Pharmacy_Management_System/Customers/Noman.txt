@@ -1,0 +1,6 @@
+Customer Name : Noman
+Medicine Name : Aspirine
+Medicine Catagory : tablet
+Quantity : 4
+Price : 23
+Data :  14/7/2019
